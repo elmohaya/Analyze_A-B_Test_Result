@@ -2,7 +2,7 @@
 
 ## Introduction
 In this project, we gathered an A/B test data conducted by an e-commerce website to determine which page design to chose from two designs. The old design is assigned to a group of people identified to control group, and the new design is assigned to another group called treatment. In this project, we analyzed whether, or not, choosing the second design is of practical significance.
-We will Investigate the test data to try to answer the following question:
+We will Investigate the test data to try to answer the following questions:
 
 > Is the proportion of control people who interacted with the old website design more than the proportion of treatment people who interacted with the new website design?
 
