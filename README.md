@@ -1,4 +1,4 @@
-# Analyze_A-B_Test_Result
+# Analyze_A/B_Test_Result
 
 ## Introduction
 In this project, we gathered an A/B test data conducted by an e-commerce website to determine which page design to chose from two designs. The old design is assigned to a group of people identified to control group, and the new design is assigned to another group called treatment. In this project, we analyzed whether, or not, choosing the second design is of practical significance.
